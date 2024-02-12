@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     const claroButton = document.getElementById('btnYes');
     claroButton.addEventListener('click', function () {
-      showMessage('Graciaaaas, nos vemos el miércoles para unas amvorguesas :3');
+      showMessage('Graciaaaas, nos vemos para unas amvorguesas :3');
     });
   
     // Agrega un evento al modal que se dispara cuando se cierra
